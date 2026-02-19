@@ -23,7 +23,7 @@ Currently, this is a test-case simulation implemented in Wokwi to validate logic
 - Embedded C
 
 ## Simulation Link (Wokwi)
-PASTE YOUR WOKWI LINK HERE
+https://wokwi.com/projects/453247964600760321
 
 ## Future Work
 - Real biosensor hardware implementation
